@@ -1,0 +1,9 @@
+p::first-line {
+  color: red;
+}
+p::first-letter {
+  color: yellow;
+}
+li:first-child {
+  color: blue;
+}

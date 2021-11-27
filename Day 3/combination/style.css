@@ -1,0 +1,16 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+div h1 {
+  color: blue;
+}
+div + p {
+  color: red;
+}
+div > h3 {
+  color: pink;
+}
+div ~ h4 {
+  background-color: green;
+}
