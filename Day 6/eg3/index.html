@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    First Name: <input name="fname" type="text" value="a" /><br />
+    Last Name: <input name="lname" type="text" value="b" />
+
+    <p>Example for name.</p>
+
+    <button onclick="Name()">Click Here</button>
+
+    <p id="e"></p>
+
+    <script>
+      function Name() {
+        var eg2 = document.getElementsByName("fname")[0].tagName;
+        document.getElementById("e").innerHTML = eg2;
+      }
+    </script>
+  </body>
+</html>

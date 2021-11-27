@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <body>
+    <div class="example">First="example".</div>
+
+    <div class="example">Second="example".</div>
+
+    <button onclick="Name()">Click Here</button>
+
+    <script>
+      function Name() {
+        var a = document.getElementsByClassName("example");
+        a[0].innerHTML = "It's Working";
+      }
+    </script>
+  </body>
+</html>
