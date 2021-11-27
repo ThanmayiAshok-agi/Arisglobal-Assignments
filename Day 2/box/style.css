@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+}
+.Box {
+  border: 5px solid blue;
+  background-color: yellow;
+}
+.Box2 {
+  width: 100px;
+  height: 100px;
+  border: 7px solid black;
+  padding: 20px 25px;
+  margin: 15px 20px 25px 30px;
+  background-color: red;
+}

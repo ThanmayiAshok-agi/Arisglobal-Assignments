@@ -1,0 +1,13 @@
+.eg1 {
+  width: 400px;
+  height: 400px;
+  background-color: lightblue;
+}
+.eg2 {
+  width: 60%;
+  height: 60vh;
+  background-color: red;
+}
+h1 {
+  font-size: 3rem;
+}

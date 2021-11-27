@@ -1,0 +1,12 @@
+.eg1 {
+  font-size: 3rem;
+  font-style: bold;
+  font-weight: 900;
+}
+p {
+  font: italic 1rem/2 arial;
+}
+h2 {
+  text-decoration: line-through;
+  color: red;
+}
