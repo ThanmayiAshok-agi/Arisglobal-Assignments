@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.Maineg2 {
+  border: 5px solid green;
+  height: 40px;
+  width: 170px;
+  display: flex;
+  flex-wrap: wrap-reverse;
+}

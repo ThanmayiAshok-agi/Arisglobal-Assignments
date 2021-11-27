@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.Maineg1 {
+  border: 3px solid blue;
+  height: 70px;
+  background-color: lightgray;
+  display: flex;
+  flex-direction: row-reverse;
+}

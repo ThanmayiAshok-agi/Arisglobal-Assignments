@@ -1,0 +1,9 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.eg3,
+.eg4 {
+  border: 3px solid greenyellow;
+  width: 100px;
+}

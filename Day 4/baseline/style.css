@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.Maineg4 {
+  border: 5px solid orange;
+  height: 50px;
+  width: 300px;
+  display: flex;
+  align-items: baseline;
+}
+.One,
+.Two {
+  border: 3px solid blueviolet;
+  width: 25px;
+  height: 15px;
+}

@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.Maineg4 {
+  border: 5px solid crimson;
+  height: 50px;
+  width: 300px;
+  background-color: lightcyan;
+  display: flex;
+  align-items: start;
+}
